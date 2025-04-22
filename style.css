@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
-font-family: "Silkscreen", sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=Special+Gothic&display=swap');
+
 
 :root {
     --cor-de-fundo: #1E1E1E;
